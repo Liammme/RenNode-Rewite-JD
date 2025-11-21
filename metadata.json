@@ -1,0 +1,5 @@
+{
+  "name": "链岛Jobs-工作助手",
+  "description": "A specialized tool for transforming Job Descriptions into authentic Xiaohongshu (Little Red Book) style posts using Gemini AI.",
+  "requestFramePermissions": []
+}
