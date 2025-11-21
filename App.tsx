@@ -33,7 +33,7 @@ const App: React.FC = () => {
         <div className="space-y-8">
            <div className="text-center mb-8">
               <h2 className="text-2xl font-bold text-gray-900">小红书风格招聘文案生成</h2>
-              <p className="text-gray-500 mt-2">一键将 JD 转换为小红书爆款文案，支持自动排版与标签生成</p>
+              <p className="text-gray-500 mt-2">爆款标题/文案转写/自动提取流量Tag</p>
            </div>
            <JobGenerator />
         </div>
