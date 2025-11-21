@@ -60,7 +60,7 @@ const JobGenerator: React.FC = () => {
       },
       body: JSON.stringify({
         // 模型：文档推荐 gpt-3.5-turbo，如果你买的令牌支持 gpt-4o，也可以改
-        model: "gpt-3.5-turbo", 
+        model: "gpt-4o", 
         messages: [
           { role: "system", content: systemPrompt },
           { role: "user", content: jdText }
