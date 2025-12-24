@@ -19,7 +19,7 @@ const App: React.FC = () => {
             <div className="h-5 w-px bg-gray-300 hidden sm:block"></div>
             
             <h1 className="font-bold text-xl text-gray-900 tracking-tight">
-              Talentvere X-工作助手
+              小红书招聘-工作助手
             </h1>
           </div>
           <div className="text-xs font-medium text-gray-400 bg-gray-50 px-3 py-1 rounded-full border border-gray-100">
