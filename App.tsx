@@ -10,8 +10,8 @@ const App: React.FC = () => {
           <div className="flex items-center gap-4">
             {/* Logo */}
             <img 
-              src="https://cdn-fusion.imgcdn.store/i/2025/157f6c4ce88e2edc.png" 
-              alt="Web3Pass" 
+              src="https://cdn-fusion.imgcdn.store/i/2025/50a8d72082a7f411.png" 
+              alt="Talentverse X" 
               className="h-8 w-auto object-contain"
               referrerPolicy="no-referrer"
             />
@@ -19,7 +19,7 @@ const App: React.FC = () => {
             <div className="h-5 w-px bg-gray-300 hidden sm:block"></div>
             
             <h1 className="font-bold text-xl text-gray-900 tracking-tight">
-              链岛Jobs-工作助手
+              Talentvere X-工作助手
             </h1>
           </div>
           <div className="text-xs font-medium text-gray-400 bg-gray-50 px-3 py-1 rounded-full border border-gray-100">
@@ -43,10 +43,10 @@ const App: React.FC = () => {
       <footer className="w-full py-8 bg-[#f8fafc] mt-auto border-t border-gray-100/50">
         <div className="max-w-3xl mx-auto px-4 text-center space-y-2">
            <p className="text-xs text-gray-400 leading-relaxed">
-             🚀Web3Pass帮助Web2-Web3的成功转型，安全抓住区块链新机会，只做离钱最近的技能赋能！
+             🚀一家由AI驱动的前沿Web3 / AI 量化领域的猎头公司
            </p>
            <p className="text-xs text-gray-400 leading-relaxed">
-             💥每周大咖开讲 | 万字转型资料 | 求职内推，带你玩转Web3未来 V：Web3Pass
+             💥小红书招聘文案爆款改写
            </p>
         </div>
       </footer>
